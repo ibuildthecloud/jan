@@ -1,0 +1,9 @@
+description: I can answer questions about your turso sqlite database
+
+tools: ../tool.gpt
+args: prompt: A question you want answered based on the content in the database
+
+Do the following step by step
+
+1. You must first inspect the schema of the database
+2. Answer the question in ${prompt} to the best of your ability using the available database

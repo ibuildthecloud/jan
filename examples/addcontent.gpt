@@ -1,0 +1,3 @@
+tools: ../tool.gpt
+
+First inspect the schema of the DB and then insert a user call "Darren" with email darren@acorn.io

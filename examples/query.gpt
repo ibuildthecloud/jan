@@ -1,0 +1,5 @@
+tools: ../tool.gpt
+
+First inspect the DB schema.
+
+Is there a user named Darren in the DB?
