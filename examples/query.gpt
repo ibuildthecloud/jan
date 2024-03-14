@@ -1,4 +1,4 @@
-tools: ../tool.gpt
+tools: github.com/ibuildthecloud/jan
 
 First inspect the DB schema.
 
